@@ -397,7 +397,7 @@ span {
 	/*animation: sloslider 60s linear infinite; */
 	animation: sloslidel 70s forwards infinite;
 }
-@keyframes sloslider {
+/* @keyframes sloslider {
 	0% 
 	{
     	transform: translateX(0%);
@@ -422,7 +422,7 @@ span {
   	100% {
   		transform: translate3d(1690px, 0, 0);
   	}
-}
+} */
 #tech-stack-desc {
 	margin-top:80px;
 }
