@@ -47,6 +47,13 @@ img {
 		display: none;
 	}	
 }
+.row .col.m6 {
+    width: 50%;
+    margin-left: 1p;
+    left: auto;
+    right: auto;
+    padding: 2.5rem;
+}
 #navbar {
 	background-color: transparent;
 }
